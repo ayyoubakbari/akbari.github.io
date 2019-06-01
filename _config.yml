@@ -10,9 +10,10 @@ disqus_shortname: ayyoubakbari
 owner:
   name:           Ayyoub Akbari-Moghanjoughi
   avatar:         ayyoub.png
-  bio:            I'm from Salmas, a small town near Urmia, West-Azarbayjab, Iran. Currently in Barcelona, Spain. Passionate about wireless communication networks, technology, photography, and mountains.
+  bio:            I'm from Salmās, a small town near Urmia, West-Azarbayjab, Iran. Currently in Barcelona, Spain. Passionate about wireless communication networks, technology, and photography.
   email:          ayyoub@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  researchgate: ayyoubakbari
   twitter: ayyoubakbari
   linkedin: ayyoubakbari
   google_scholar: FzW-DmcAAAAJ
