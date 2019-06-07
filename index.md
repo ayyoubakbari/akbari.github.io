@@ -16,4 +16,3 @@ and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_bl
 and with the startup <a href="https://gestoos.com" target="_blank">Fezoo</a>.
 <br />
 I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
-
